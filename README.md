@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I’m a **Full Stack Engineer** based in Morocco, with a focus on developing efficient and scalable software solutions. As the Founder of , a digital agency specializing in custom software and digital solutions, I work with a diverse range of technologies to help businesses achieve their goals.
+I'm a [**Senior Software Engineer**](https://www.chihabjraoui.com) & Tech Lead based in Morocco, specializing in building scalable geospatial intelligence and AI-powered platforms.
 
-Currently, I’m with [**ARIAS TECH SOLUTIONS**](https://github.com/ariastechsolutions), where I design and develop high-performance applications, leveraging my experience in both front-end and back-end development. My expertise includes technologies like Angular, React, Node.js, NestJS, and Flutter, among others.
+Currently leading architecture and development at [**ARIAS TECH SOLUTIONS**](https://github.com/ariastechsolutions), where I design high-performance systems for earth observation and environmental intelligence — from full-stack applications to AI agent pipelines.
+
+My core stack: TypeScript · NestJS · Next.js · PostgreSQL/PostGIS · Azure · React
 
 Feel free to connect with me here or through [LinkedIn](https://linkedin.com/in/chihabjraoui).
 
